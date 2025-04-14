@@ -4,8 +4,6 @@
 
 <h1 align="center">Draweon Graphics Editor 🖌️</h1>
 
-# Draweon Graphics Editor 🖌️
-
 Draweon is a powerful graphics editor built for intuitive drawing, AI-powered assistance, and seamless user experience. From simple shapes to complex layouts, Draweon lets you design with precision, efficiency, and smart automation.
 
 ---
