@@ -4,6 +4,48 @@ Draweon is a powerful graphics editor built for intuitive drawing, AI-powered as
 
 ---
 
+## 🛠️ Getting Started
+
+### 📦 Prerequisites
+Before running Draweon, make sure you have the following installed:
+
+- **Node.js & npm**
+- **Git** (optional, for cloning the repository)
+
+### 🚀 Run Instructions
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/draweon.git
+cd draweon
+
+# 2. Install dependencies
+npm install
+
+# 3. Set up environment variables for AI features
+# Create a `.env` file in the root project folder and add the following line:
+VITE_OPENAI_KEY=your_openai_api_key_here
+
+# 4. Start the development server
+npm run dev
+
+# The app will be available at http://localhost:5173 (or another port shown in terminal)
+```
+
+### 🤖 Enabling AI Features
+To enable AI-powered suggestions and enhancements:
+
+1. Create a `.env` file inside the project folder.
+2. Add your OpenAI API key:
+   ```
+   VITE_OPENAI_KEY=your_openai_api_key_here
+   ```
+3. Restart the development server if it's already running.
+
+> 🔐 Keep your API key secure and **do not** commit your `.env` file to version control.
+
+---
+
 ## 🚀 Features
 
 ### 🎨 Basic Drawing Tools
