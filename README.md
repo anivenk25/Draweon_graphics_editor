@@ -17,7 +17,7 @@ Before running Draweon, make sure you have the following installed:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/anivenk25/Draweon_graphics_editor.git
-cd draweon
+cd project
 
 # 2. Install dependencies
 npm install
